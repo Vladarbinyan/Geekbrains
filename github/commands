@@ -1,0 +1,3 @@
+Useful things
+git status
+git init <DIR> - initialise directory as a git repo
