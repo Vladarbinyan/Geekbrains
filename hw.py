@@ -1,2 +1,2 @@
-#hello world
+#Program 'hello world'
 #this file will contain source code
